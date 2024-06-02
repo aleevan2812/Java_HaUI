@@ -14,7 +14,7 @@ import java.sql.DriverManager;
 public class KetNoiCSDL { 
     private static final String URL = "jdbc:mysql://localhost:3306/quanlyluongthuong";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "alee";
+    private static final String PASSWORD = "Alee123.";
     public static Connection getConnection() {
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");

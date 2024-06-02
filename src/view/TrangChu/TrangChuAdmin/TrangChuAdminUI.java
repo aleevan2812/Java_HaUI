@@ -162,7 +162,7 @@ public class TrangChuAdminUI extends javax.swing.JFrame implements ActionListene
             }
         });
 
-        lblUsername.setText("Xin chào, Nhóm 7");
+        lblUsername.setText("Xin chào, Nhóm 2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
